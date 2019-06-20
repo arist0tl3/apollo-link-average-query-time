@@ -1,6 +1,6 @@
 {
   "name": "apollo-link-average-query-time",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Apollo Link for Tracking Average Query Times",
   "author": "Sean Elliot <sean@vigorwebsolutions.com>",
   "license": "MIT",
@@ -13,7 +13,9 @@
     "url": "https://github.com/arist0tl3/apollo-link-average-query-time/issues"
   },
   "dependencies": {
-    "apollo-link": "^1.0.5",
+    "apollo-link": "^1.0.5"
+  },
+  "peerDependencies": {
     "apollo-cache-inmemory": "^1.3.11"
   }
 }
