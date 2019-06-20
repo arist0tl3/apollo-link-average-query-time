@@ -1,6 +1,6 @@
 {
   "name": "apollo-link-average-query-time",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Apollo Link for Tracking Average Query Times",
   "author": "Sean Elliot <sean@vigorwebsolutions.com>",
   "license": "MIT",
