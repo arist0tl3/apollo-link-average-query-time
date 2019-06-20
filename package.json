@@ -13,6 +13,7 @@
     "url": "https://github.com/arist0tl3/apollo-link-average-query-time/issues"
   },
   "dependencies": {
-    "apollo-link": "^1.0.5"
+    "apollo-link": "^1.0.5",
+    "apollo-cache-inmemory": "^1.3.11"
   }
 }
